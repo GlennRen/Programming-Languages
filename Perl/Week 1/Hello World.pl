@@ -44,3 +44,7 @@ $days_in_summer{"October"} = 31;
 for $i (@month_list) {
   print "$i\n";
 }
+
+# Substrings
+
+# Elements of Variables
